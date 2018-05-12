@@ -1,0 +1,26 @@
+_repo: The-Vice-Bondage-of-a-Great-City-or-the-Wickedest-City-in-the-World_43631
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43631-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harland, Robert O.
+    gutenberg_agent_id: '42333'
+    url: http://www.gutenberg.org/2009/agents/42333
+description: ''
+gutenberg_issued: '2013-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43631'
+  lccn: '12003439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Moral conditions'
+- !lcc 'HQ'
+- !lcsh 'Prostitution -- Illinois -- Chicago'
+title: The Vice Bondage of a Great City; or, the Wickedest City in the World
+url: http://www.gutenberg.org/ebooks/43631
