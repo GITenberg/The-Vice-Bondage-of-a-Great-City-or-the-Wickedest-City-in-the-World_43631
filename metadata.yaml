@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42333'
     url: http://www.gutenberg.org/2009/agents/42333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43631#The-Vice-Bondage-of-a-Great-City-or-the-Wickedest-City-in-the-World
 gutenberg_issued: '2013-09-03'
 gutenberg_type: Text
 identifiers:
